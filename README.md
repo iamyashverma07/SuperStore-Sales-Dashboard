@@ -16,8 +16,8 @@ This project showcases an interactive dashboard for analyzing sales data of a Su
 <b>Power BI:</b> For creating interactive dashboards.<br>
 <b>Python:</b> For data preprocessing and time series analysis.<br>
 <b>Pandas:</b> For data manipulation.<br>
-<b>Matplotlib/Seaborn:</b> For additional data visualizations.<br><br>
-
+<b>Matplotlib/Seaborn:</b> For additional data visualizations.<br>
+<br>
 <b>Learning and Insights</b><br>
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 <br><br>
